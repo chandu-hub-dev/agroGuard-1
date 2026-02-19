@@ -50,6 +50,12 @@ Google Gemini API (AI Image & Text Analysis)
 
 Modern Responsive UI Components (UI/UX Design)
 
+## zip file overview
+
+[zipfile!](agroguard-ai(1).zip)
+
+
+
 📌 Modules Included
 
 Disease Detection Module
